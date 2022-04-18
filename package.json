@@ -1,0 +1,26 @@
+{
+  "name": "redis-bulk-loading-with-tcp",
+  "version": "1.0.0",
+  "description": "Bulk loading keys into redis via TCP. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMarciaOng/redis-bulk-loading-with-TCP.git"
+  },
+  "keywords": [
+    "redis",
+    "bulk-loading"
+  ],
+  "author": "Marcia Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMarciaOng/redis-bulk-loading-with-TCP/issues"
+  },
+  "homepage": "https://github.com/MrMarciaOng/redis-bulk-loading-with-TCP#readme",
+  "dependencies": {
+    "redis-stream": "^0.1.0"
+  }
+}
